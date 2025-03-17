@@ -8,7 +8,7 @@ Espero que pueda ser de su agrado y muchas gracias
 
 ## Preview
 
-![Preview](https://prnt.sc/usvLQoydfSjA)
+![Preview](https://github.com/HenrryR16/amigo_secreto/blob/main/preview.png)
 
 
 ## Code explanation
